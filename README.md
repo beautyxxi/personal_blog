@@ -15,4 +15,10 @@ npm run serve
 
 ## 项目截图
 
+### 好友列表页面
+
+![image](./public/image1.png)
+
+### 个人主页页面
+
 ![image](./public/image.png)
